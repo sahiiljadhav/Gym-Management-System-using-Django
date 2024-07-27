@@ -32,34 +32,34 @@ Copy the localhost URL (e.g., http://127.0.0.1:8000/) and paste it into the brow
 
 # OUTPUT
 
-![Gym](1.png)
+![Gym](assets/1.png)
 
-![Gym](2.png)
+![Gym](assets/2.png)
 
-![Gym](3.png)
+![Gym](assets/3.png)
 
-![Gym](4.png)
+![Gym](assets/4.png)
 
-![Gym](5.png)
+![Gym](assets/5.png)
 
-![Gym](6.png)
+![Gym](assets/6.png)
 
-![Gym](7.png)
+![Gym](assets/7.png)
 
-![Gym](8.png)
+![Gym](assets/8.png)
 
-![Gym](9.png)
+![Gym](assets/9.png)
 
-![Gym](10.png)
+![Gym](assets/10.png)
 
-![Gym](11.png)
+![Gym](assets/11.png)
 
-![Logo](12.png)
+![Logo](assets/12.png)
 
-![Logo](13.png)
+![Logo](assets/13.png)
 
-![Logo](14.png)
+![Logo](assets/14.png)
 
-![Logo](15.png)
+![Logo](assets/15.png)
 
-![Logo](16.png)
+![Logo](assets/16.png)
